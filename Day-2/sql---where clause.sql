@@ -1,0 +1,1 @@
+SELECT officecode,firstName,email from employees where(officecode = 1);

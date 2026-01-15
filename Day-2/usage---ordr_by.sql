@@ -1,0 +1,1 @@
+select employeenumber,firstname from employees order by employeenumber
